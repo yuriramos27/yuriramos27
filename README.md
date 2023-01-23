@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   test 
-  - [] bom dia
+ - [x] bom dia
